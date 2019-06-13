@@ -1,0 +1,35 @@
+package com.cry.vpnandroid.Models
+
+data class ApplicationConfiguration (
+
+	val uuidMode : Boolean,
+	val trialProductId : String,
+	val vpnProfileName : String,
+	val websiteUrl : String,
+	val geoRestrict : Boolean,
+	val interstitialCount : Int,
+	val offerPopupCount : Int,
+	val supportPopupCount : Int,
+	val speedPopupCount : Int,
+	val locationPopupCount : Int,
+	val storePopupCount : Int,
+	val freeTrialMinutes : Int,
+	val trialNotificationTitle : String,
+	val trialNotificationBody : String,
+	val adLoaderInterval : Int,
+	val terminationNotificationBody : String,
+	val terminationNotificationTitle : String,
+	val vungleAppId : String,
+	val adColonyAppId : String,
+	val admobAppId : String,
+	val discountProductId : String,
+	val saleProductId : String,
+	val adLookingTimeout : Int,
+	val connectionAdCount : Int,
+	val connectTimeout : Int,
+	val appstoreId : Int,
+	val da : Boolean,
+	val rmbc : Int,
+	val interstitialProductId : String,
+	val fm : Boolean
+)

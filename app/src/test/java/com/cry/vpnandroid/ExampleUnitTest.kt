@@ -1,4 +1,4 @@
-package com.cry.mvvmkotlinsample
+package com.cry.vpnandroid
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">MVVMKotlinSample</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">VPN Android</string>
+    <string name="vpn_json_string_key">VPN_JSON_STRING</string>
 </resources>

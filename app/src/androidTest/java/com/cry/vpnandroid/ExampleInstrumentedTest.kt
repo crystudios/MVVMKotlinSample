@@ -1,4 +1,4 @@
-package com.cry.mvvmkotlinsample
+package com.cry.vpnandroid
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.cry.mvvmkotlinsample", appContext.packageName)
+        assertEquals("com.cry.vpnandroid", appContext.packageName)
     }
 }
