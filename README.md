@@ -15,4 +15,4 @@ Screenshots of the working app are shown below:
 
 ![splash](/img/screen1.jpg) ![main](/img/screen2.jpg)  
 
-The exact requirements are on the following file: [Specs](/AndroidVpnTest.pdf)
+The exact requirements are on the following file: [Specs](/AndroidVPNTest.pdf)
