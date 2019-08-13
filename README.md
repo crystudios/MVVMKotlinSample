@@ -13,6 +13,6 @@ The goal of this task was basically to measure my ability to follow strict desig
 
 Screenshots of the working app are shown below:
 
-![splash](/img/screen1.png) ![main](/img/screen2.png)  
+![splash](/img/screen1.jpg) ![main](/img/screen2.jpg)  
 
 The exact requirements are on the following file: [Specs](/AndroidVpnTest.pdf)
